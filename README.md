@@ -1,2 +1,2 @@
 # Swift5-Exercises
-I am interested in MacOS so I learn Swift.
+I'm interested in MacOS, so I'm going to learn Swift.
